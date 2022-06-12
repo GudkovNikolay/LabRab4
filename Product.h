@@ -1,4 +1,4 @@
-/*#pragma once
+#pragma once
 
 #include <iostream>
 #include <sstream>
@@ -48,9 +48,9 @@ public:
     }
 private:
     double m_cost_per_one;
-};*/
+};
 
-#pragma once
+/*#pragma once
 #include <sstream>
 #include <utility>
 #include <vector>
@@ -109,4 +109,4 @@ public:
     }
 private:
     double m_cost_per_one;
-};
+};*/

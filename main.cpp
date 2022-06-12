@@ -3,7 +3,7 @@
 #include "Position.h"
 #include "Order.h"
 #include "Client.h"
-#include "PriceBase.h"
+#include "PriceBase2.h"
 
 int main() {
     /*PriceBase& price_base = PriceBase::Instance();
